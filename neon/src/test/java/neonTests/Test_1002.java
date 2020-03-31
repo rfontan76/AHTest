@@ -20,6 +20,6 @@ public class Test_1002 extends BaseTest {
         homePage.setSearchText("Selenium");
         homePage.searchButton();
         String url = resultsPage.getUrl();
-        Assert.assertTrue(url.contains("Seleniummmmm"));
+        Assert.assertTrue(url.contains("Selenium"));
     }
 }
