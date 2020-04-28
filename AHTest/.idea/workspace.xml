@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a240d071-84af-4ae0-b784-8325038ebfb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AppleHealthApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/properties/MobileProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/launchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/emulator.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mobile.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java" afterDir="false" />
+    <list default="true" id="a240d071-84af-4ae0-b784-8325038ebfb0" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/properties/MobileProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/properties/MobileProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utility/launchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utility/launchApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/MobileProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/MobileProperties.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../e2e-dcm-automation/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../e2e-dcm-automation/.idea/e2e-dcm-automation.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/.idea/compiler.xml" beforeDir="false" />
@@ -30,16 +24,6 @@
       <change beforePath="$PROJECT_DIR$/../neon/src/main/java/analizers/Retry.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/src/main/java/listeners/AllureListener.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/src/main/java/properties/PropertiesFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/main/java/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/environment.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/main/java/web/BaseDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/main/java/web/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/main/java/web/ResultsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/neo/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/neo/Test_1001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/neo/Test_1002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/neo/Test_1003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/saucelabs/SLabsBaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../neon/src/test/java/saucelabs/Test_1001_SL.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/target/classes/DesiredCaps.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/target/classes/Logging.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../neon/target/classes/analizers/Retry.class" beforeDir="false" />
@@ -107,7 +91,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,40 +118,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="128">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/properties/MobileProperties.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utility/launchApp.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="1120">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utility/launchApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestSuite.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,6 +177,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/AppleHealthApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/AppleHealthApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/properties/MobileProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/launchApp.java" />
       </list>
     </option>
   </component>
@@ -185,7 +190,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -197,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,10 +214,52 @@
               <item name="AHTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AHTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AHTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="applehealthapp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -270,43 +316,94 @@
       <option name="presentableId" value="Default" />
       <updated>1588035916943</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1588036538089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588036538090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="_Users_rodrigofontan_Repos_AHTest_TestSuite_xml - 2020.04.27 at 21h 12m 37s.xml">
       <configuration name="/Users/rodrigofontan/Repos/AHTest/TestSuite.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_rodrigofontan_Repos_AHTest_TestSuite_xml - 2020.04.27 at 21h 28m 36s.xml">
+      <configuration name="/Users/rodrigofontan/Repos/AHTest/TestSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rodrigofontan_Repos_AHTest_TestSuite_xml - 2020.04.28 at 08h 59m 39s.xml">
+      <configuration name="/Users/rodrigofontan/Repos/AHTest/TestSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rodrigofontan_Repos_AHTest_TestSuite_xml - 2020.04.28 at 09h 43m 57s.xml">
+      <configuration name="/Users/rodrigofontan/Repos/AHTest/TestSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rodrigofontan_Repos_AHTest_TestSuite_xml - 2020.04.28 at 09h 51m 39s.xml">
+      <configuration name="/Users/rodrigofontan/Repos/AHTest/TestSuite.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3054755" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31051874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292232" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292232" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -328,26 +425,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="128">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/properties/MobileProperties.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utility/launchApp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/applehealthapp/homepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="176">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSuite.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties/MobileProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/launchApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
